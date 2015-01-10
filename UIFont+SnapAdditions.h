@@ -21,6 +21,7 @@
 
 @interface UIFont (SnapAdditions)
 
+
 // method to create a new UIFont object with Action Man font
 + (id)pj_snapFontWithSize:(CGFloat)size;
 
